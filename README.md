@@ -9,4 +9,4 @@ Este es nuestro primer proyecto del tercer semestre y del curso de programacion 
 - Andy Najera
 # mi-primer-proyecto-progra1
 - **Geofrey Florian**  
-  Aprendí a utilizar Git para gestionar versiones de proyectos, y a usar GitHub para colaborar de forma remota.
+  Aprendí a utilizar Git para gestionar versiones de proyectos, y a usar GitHub para colaborar de forma remota y grupal.
